@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "305bob+qXVfbNVUfPyvP54P/bqtLeQk+pBQeWcH3ojqPXDT5W0AkfplSgvUHsURNfouG4qi88r1nQu99l1OD0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArnaudAdmin\\source\\repos\\webApiSampleCICD\\webApiSampleCICD\\webApiSampleCICD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArnaudAdmin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
